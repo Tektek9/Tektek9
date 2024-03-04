@@ -23,6 +23,6 @@
 <footer>
     <div class=“wrapper”>
         <small>©2024 <strong>Bismillah</strong>, yang penting halal</small>
-        <p align="left"> <img src="https://komarev.com/ghpvc/?username=edohandoko67&label=Profile%20views&color=0e75b6&style=flat" alt="edohandoko67" /> </p>
+        <p align="right"> <img src="https://komarev.com/ghpvc/?username=Tektek9&label=Profile%20views&color=0e75b6&style=flat" alt="Tektek9" /> </p>
     </div>
 </footer>
