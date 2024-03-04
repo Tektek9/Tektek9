@@ -9,7 +9,7 @@
         }
 
         .text {
-          width: 700px;
+<!--           width: 700px; -->
           animation: typing 1.5s steps(9), blink .5s step-end infinite alternate;
           white-space: nowrap;
           overflow: hidden;
@@ -23,7 +23,9 @@
 
         @keyframes typing {
           from {
-            width: 0
+            width: 0;
+          } to {
+            width: auto;
           }
         }
 
