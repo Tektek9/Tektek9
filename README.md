@@ -1,3 +1,23 @@
+<style>
+    footer {
+        background-color: #f0f0f0; /* Ganti dengan warna latar belakang yang diinginkan */
+        padding: 10px; /* Atur padding sesuai kebutuhan */
+    }
+
+    .wrapper {
+        display: flex;
+        justify-content: space-between; /* Mengatur agar elemen sejajar dan terletak di ujung kiri dan kanan */
+        align-items: center; /* Mengatur agar elemen di tengah vertikal */
+    }
+
+    .left-content {
+        text-align: left;
+    }
+
+    .right-content {
+        text-align: right;
+    }
+</style>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Taukhid+Aji+Nurwijayadi!;+I+am+a+freelancer;" />
 </h1>
@@ -21,11 +41,11 @@
 </div>
 
 <footer>
-    <div class=“wrapper”>
-        <div align="left">
+    <div class="wrapper">
+        <div class="left-content">
             <small>©2024 <strong>Bismillah</strong>, yang penting halal</small>
         </div>
-        <div align="right">
+        <div class="right-content">
             <p> <img src="https://komarev.com/ghpvc/?username=Tektek9&label=Profile%20views&color=0e75b6&style=flat" alt="Tektek9" /> </p>
         </div>
     </div>
