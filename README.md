@@ -18,8 +18,6 @@
     <a href="https://www.linkedin.com/in/taukhid-ajin" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-</div>
-
-<footer>
-    <p> <img src="https://komarev.com/ghpvc/?username=Tektek9&label=Profile%20views&color=0e75b6&style=flat" alt="Tektek9" /> </p>
-</footer>
+</div
+<br/>    
+<p> <img src="https://komarev.com/ghpvc/?username=Tektek9&label=Profile%20views&color=0e75b6&style=flat" alt="Tektek9" /> </p>
