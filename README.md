@@ -2,9 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Taukhid+Aji+Nurwijayadi!;+I+am+a+freelancer;" />
 </h1>
 <br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edohandoko67&label=Profile%20views&color=0e75b6&style=flat" alt="edohandoko67" /> </p>
-
 <div align="center">
 
 😊 I am always grateful because I am always surrounded by good people
@@ -26,5 +23,6 @@
 <footer>
     <div class=“wrapper”>
         <small>©2024 <strong>Bismillah</strong>, yang penting halal</small>
+        <p align="left"> <img src="https://komarev.com/ghpvc/?username=edohandoko67&label=Profile%20views&color=0e75b6&style=flat" alt="edohandoko67" /> </p>
     </div>
 </footer>
