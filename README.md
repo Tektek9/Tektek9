@@ -5,6 +5,7 @@
 <div align="center">
 😊 I am always grateful because I am surrounded by good people
 
+
 🌱 I live to learn, and learn to live
 
 ⚡ Never give up
