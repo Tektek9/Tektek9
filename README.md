@@ -20,7 +20,7 @@
     </a>
 </div>
 
-<footer style="display: flex; justify-content: space-between;">
+<footer>
     <small>©2024 <strong>Bismillah</strong>, yang penting halal</small>
     <p> <img src="https://komarev.com/ghpvc/?username=Tektek9&label=Profile%20views&color=0e75b6&style=flat" alt="Tektek9" /> </p>
 </footer>
