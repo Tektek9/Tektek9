@@ -12,7 +12,7 @@
  
  🌱 I live to learn, and learn to live
 
- ⚡ I like playing PUBG and Minion Rush games
+ ⚡ Stay enthusiastic and stay positive in life
 
  </div>
  
