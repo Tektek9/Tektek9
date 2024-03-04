@@ -20,7 +20,7 @@
     </a>
 </div>
 
-<footer>
+<footer style="display: flex; justify-content: space-between;">
     <tr>
         <td align="left">
             <small>©2024 <strong>Bismillah</strong>, yang penting halal</small>    
