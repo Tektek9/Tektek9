@@ -1,5 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=45&pause=1000&color=904EF7&center=true&vCenter=true&random=false&width=700&lines=Hi+There!+👋;I+am+Taukhid+Aji+Nurwijayadi!;I+am+a+freelancer;"/>
+    <a class="link" href="https://github.com/codeflowjs/codeflowjs/blame/main/header.svg">
+  <img class="image" src="tulisan.svg" alt="monggo">
+ </a>
 </h1>
 <br/>
 <div align="center">
