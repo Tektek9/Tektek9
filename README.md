@@ -3,7 +3,7 @@
 </h1>
 <br/>
 
-https://camo.githubusercontent.com/32ee72a7bf2fdd4ccc201ff60cd28e97bdbc8134c95ebfe25e5e97192c7145ea/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d65646f68616e646f6b6f3637266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edohandoko67&label=Profile%20views&color=0e75b6&style=flat" alt="edohandoko67" /> </p>
 
 <div align="center">
 
