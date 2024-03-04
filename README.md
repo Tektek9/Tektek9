@@ -22,6 +22,6 @@
 
 <footer>
     <div class=“wrapper”>
-        <small>©2024 <strong>Monggo yang mau freelance</strong>, yang penting halal</small>
+        <small>©2024 <strong>Bismillah</strong>, yang penting halal</small>
     </div>
 </footer>
