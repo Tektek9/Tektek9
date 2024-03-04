@@ -1,9 +1,3 @@
-<h1 align="center">
-    <a class="link" href="https://github.com/codeflowjs/codeflowjs/blame/main/header.svg">
-        <img class="image" src="tulisan.svg" alt="monggo"/>
-    </a>
-</h1>
-<br/>
 <div align="center">
 
 😊 I am always grateful because I am always surrounded by good people
